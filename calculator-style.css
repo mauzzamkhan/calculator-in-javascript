@@ -37,3 +37,7 @@
     color: white;
     transition: 0.5s ease-in-out;
 }
+
+.multiply, .clear, .slash, .left-angle-bracket, .right-angle-bracket, .dot, .plus, .minus, .back-space {
+    color: #5555ff;
+}
